@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advice-generator-app-main--reactProject-and-API/static/css/main.bf04e3ea.css",
+    "main.js": "/advice-generator-app-main--reactProject-and-API/static/js/main.ac26d0a9.js",
+    "index.html": "/advice-generator-app-main--reactProject-and-API/index.html",
+    "main.bf04e3ea.css.map": "/advice-generator-app-main--reactProject-and-API/static/css/main.bf04e3ea.css.map",
+    "main.ac26d0a9.js.map": "/advice-generator-app-main--reactProject-and-API/static/js/main.ac26d0a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf04e3ea.css",
+    "static/js/main.ac26d0a9.js"
+  ]
+}
